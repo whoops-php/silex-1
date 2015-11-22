@@ -1,5 +1,6 @@
 {
     "name": "whoops/silex-1",
+    "version": "1.0.0",
     "description": "Whoops provider for Silex",
     "license": "MIT",
     "authors": [
