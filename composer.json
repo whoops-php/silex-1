@@ -1,0 +1,18 @@
+{
+    "name": "whoops/silex-1",
+    "description": "Whoops provider for Silex",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Filipe Dobreira",
+            "email": "dobreira@gmail.com"
+            }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Whoops\\Provider\\Silex\\": "src/"
+        }
+    }
+}
